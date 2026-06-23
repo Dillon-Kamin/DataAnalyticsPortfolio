@@ -1,0 +1,26 @@
+1. 
+SELECT *
+FROM Employees
+WHERE age < 30
+
+2. 
+SELECT employeename, salary
+FROM Employees
+ORDER by salary DESC
+LIMIT 5
+
+3. 
+SELECT deptid, COUNT(*) AS employee_count
+FROM Employees
+GROUP BY deptid
+
+4. 
+SELECT employeename, deptid
+FROM Employees
+
+or if we had a Departments table with department id and department name, the tables can be linked such that:
+
+SELECT e.employeename, d.deptname
+From Employees e
+INNER JOIN Departments d
+On e.deptid = d.deptid
