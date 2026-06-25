@@ -15,6 +15,7 @@ can be important via Seaborn using sns.load_dataset("penguins").
 * Pandas
 * Matplotlib
 * Seaborn
+* Jupyter
 
 ## Findings
 * Torgensen island has only Adelie penguins. Biscoe island has Adelie and Gentoo. Dream island has Adelie and Chinstrap.
@@ -22,3 +23,5 @@ can be important via Seaborn using sns.load_dataset("penguins").
 * Adelie penguins have shorter bill lengths than the other two species.
 
 Link to full report: https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/blob/main/Reports/Penguins_report.pdf
+
+Link to Jupyter notebook: https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/blob/main/Reports/Penguins_report.ipynb
