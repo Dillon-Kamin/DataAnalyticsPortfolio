@@ -13,3 +13,5 @@ netflix_titles.csv
 * USA produces the most content, distantly followed by India, then the UK.
 * Adam Sandler is the most commonly appearing cast member of US actors.
 * Anupam Kher is the most commonly appearing cast member globally.
+
+## Link to visualizations: https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/blob/main/Python/Movies_analysis.pdf
