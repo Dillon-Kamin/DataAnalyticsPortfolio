@@ -7,3 +7,28 @@ My name is Dillon Kamin, a current Masters in Data Science student at Gonzaga Un
 ## Portfolio
 
 The following contents are a portfolio of Data Analytics Projects using Python, Power BI, Tableau, SQL, and Data Storytelling completed for a graduate course at Gonzaga.
+
+### PowerBI 
+
+https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/PowerBI
+
+### Python
+
+https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Python
+
+### Reports
+
+https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Reports
+
+### SQL
+
+https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/SQL
+
+### Tableau
+
+https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Tableau
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/dillon-kamin/
+* Email: dkamin@zagmail.gonzaga.edu
