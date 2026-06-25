@@ -14,4 +14,4 @@ netflix_titles.csv
 * Adam Sandler is the most commonly appearing cast member of US actors.
 * Anupam Kher is the most commonly appearing cast member globally.
 
-## Link to visualizations: https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/blob/main/Python/Movies_analysis.pdf
+Link to visualizations: https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/blob/main/Python/Movies_analysis.pdf
