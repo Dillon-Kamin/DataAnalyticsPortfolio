@@ -10,26 +10,28 @@ The following contents are a portfolio of Data Analytics Projects using Python, 
 
 ### PowerBI 
 
-[https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/PowerBI]
+[PowerBI Project (Github)](https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/PowerBI)
+
+[Dashboard](https://app.powerbi.com/groups/me/insights/445a0576-4c46-4c4a-874d-39cd0fce99cc?insightsSource=Desktop&experience=power-bi)
 
 ### Python
 
-https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Python
+[Python Project (Github)](https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Python)
 
 ### Reports
 
-https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Reports
+[Reports (Github)](https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Reports)
 
 ### SQL
 
-https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/SQL
+[SQL Queries (Github)](https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/SQL)
 
 ### Tableau
 
-https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Tableau
+[Tableau Project (Github)](https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Tableau)
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/dillon-kamin/
+* [LinkedIn](https://www.linkedin.com/in/dillon-kamin/)
+* [Google Scholar](https://scholar.google.com/citations?user=Fwly7rQAAAAJ&hl=en)
 * Email: dkamin@zagmail.gonzaga.edu
-* Google Scholar: https://scholar.google.com/citations?user=Fwly7rQAAAAJ&hl=en
