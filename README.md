@@ -32,4 +32,4 @@ https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/Tableau
 
 * LinkedIn: https://www.linkedin.com/in/dillon-kamin/
 * Email: dkamin@zagmail.gonzaga.edu
-* https://scholar.google.com/citations?user=Fwly7rQAAAAJ&hl=en
+* Google Scholar: https://scholar.google.com/citations?user=Fwly7rQAAAAJ&hl=en
