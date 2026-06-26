@@ -10,7 +10,7 @@ The following contents are a portfolio of Data Analytics Projects using Python, 
 
 ### PowerBI 
 
-https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/PowerBI
+[https://github.com/Dillon-Kamin/DataAnalyticsPortfolio/tree/main/PowerBI]
 
 ### Python
 
